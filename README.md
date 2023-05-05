@@ -1,4 +1,4 @@
-# nFactorial-Incubator
+# Instruction
 This is a Python code for a game called "Nu, pogodi!" or "Catch the egg!" in English. It uses the Pygame library to create a graphical interface and game mechanics.
 
 The game consists of a wolf character holding a basket, and eggs falling from four different positions on the screen. The player must move the basket to catch the eggs while avoiding "losses," which are essentially bombs that fall from the same positions as the eggs. The game ends when the player misses three eggs, and the score is displayed on the screen.
